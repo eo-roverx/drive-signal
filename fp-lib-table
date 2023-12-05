@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "stm32-black-pill")(type "KiCad")(uri "${KIPRJMOD}/custom-libs/stm32-black-pill.pretty")(options "")(descr ""))
+)
