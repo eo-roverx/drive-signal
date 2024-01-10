@@ -2518,7 +2518,7 @@
     (property "Reference" "J7" (at 101.6 119.38 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "Conn_01x02_Pin" (at 101.6 121.92 0)
+    (property "Value" "POWER" (at 101.6 121.92 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical" (at 100.33 121.92 0)
