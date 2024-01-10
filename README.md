@@ -13,13 +13,14 @@ Breaks out the drive signals from the STM32 to the motor drivers and encoders. A
 *   1x STM32F411CEU6 Microcontroller
 *   4x 3-pin JST connectors for motor drivers
 *   4x 4-pin JST connectors for motor encoders
-*   1x 4-pin JST connector for IMU (I2C and 5V power)
+*   1x 4-pin JST connector for IMU (I2C and 5V power) + direct female header
 *   1x 3-pin JST connector for SBC (I2C)
 *   1x 2-pin JST connector for 5V power
 *   4x 4.7k 0805 SMD resistors (optional pull-ups for I2C)
 *   4x 0805 SMD LEDs (optional motor status indicators)
 *   4x 0805 SMD 2k resistors (current limiting for LEDs)
 *   1x 0805 capacitor (optional for STM32 power filtering)
+*   2x 3-pin JST connectors for additional I2C
 
 
 ## STM32 Pinouts
